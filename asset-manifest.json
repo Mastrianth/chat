@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mastrianth/chat/static/css/main.233fd835.chunk.css",
+    "main.js": "/Mastrianth/chat/static/js/main.94980135.chunk.js",
+    "main.js.map": "/Mastrianth/chat/static/js/main.94980135.chunk.js.map",
+    "runtime-main.js": "/Mastrianth/chat/static/js/runtime-main.3473af76.js",
+    "runtime-main.js.map": "/Mastrianth/chat/static/js/runtime-main.3473af76.js.map",
+    "static/js/2.2e9d9488.chunk.js": "/Mastrianth/chat/static/js/2.2e9d9488.chunk.js",
+    "static/js/2.2e9d9488.chunk.js.map": "/Mastrianth/chat/static/js/2.2e9d9488.chunk.js.map",
+    "index.html": "/Mastrianth/chat/index.html",
+    "static/css/main.233fd835.chunk.css.map": "/Mastrianth/chat/static/css/main.233fd835.chunk.css.map",
+    "static/js/2.2e9d9488.chunk.js.LICENSE.txt": "/Mastrianth/chat/static/js/2.2e9d9488.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3473af76.js",
+    "static/js/2.2e9d9488.chunk.js",
+    "static/css/main.233fd835.chunk.css",
+    "static/js/main.94980135.chunk.js"
+  ]
+}
